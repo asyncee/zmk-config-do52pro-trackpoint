@@ -17,5 +17,5 @@ include:
     shield: think_corney_left
   - board: nice_nano_v2
     shield: think_corney_right
-  - board: nrfmicro_13
+  - board: nice_nano_v2
     shield: settings_reset
