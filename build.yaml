@@ -13,9 +13,9 @@
 #
 ---
 include:
-  - board: nfrmicro_13
+  - board: nrfmicro_13
     shield: think_corney_left
-  - board: nfrmicro_13
+  - board: nrfmicro_13
     shield: think_corney_right
-  - board: nfrmicro_13
+  - board: nrfmicro_13
     shield: settings_reset
